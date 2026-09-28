@@ -1,0 +1,12 @@
+__pycache__/
+.ipynb_checkpoints/
+.env
+.venv/
+data/
+prepared_data/
+runs/
+cbis_ddsm/
+*.dcm
+*.keras
+*.h5
+*.npz
